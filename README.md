@@ -1,48 +1,70 @@
-# 👩🏽‍💻 Sylvia Mahlangu - GitHub Portfolio
+# 💖👩🏽‍💻 Sylvia Mahlangu - GitHub Portfolio
 
-## 🌟 About Me
-I am a dedicated 3rd-year ICT student with a strong passion for software development and data analytics. I enjoy building systems that solve real-world problems and continuously improving my technical and problem-solving skills.
+<p align="center">
+  <img src="https://via.placeholder.com/800x200.png?text=Welcome+to+My+Portfolio" />
+</p>
+
+---
+
+## 🌸 About Me
+Hi there! I'm Sylvia, a passionate 3rd-year ICT student who loves building systems and solving real-world problems through technology. I am driven, detail-oriented, and always eager to learn and grow in the tech industry.
 
 ---
 
 ## 🎓 Education
 - Higher Certificate in Information Technology
-- Currently studying towards an ICT qualification
+- Currently pursuing an ICT qualification
+
+---
+
+## 💼 Work Experience
+### ✨ (Your Job Title Here)
+- Company Name
+- Duration (e.g. Jan 2024 – Present)
+- Responsibilities:
+  - Assisted with...
+  - Worked on...
+  - Gained experience in...
 
 ---
 
 ## 💻 Technical Skills
-- Programming: Java
-- Database: SQL, MySQL
-- Web Development: HTML, CSS, JavaScript
-- Tools: GitHub, NetBeans, Visual Studio Code
+💗 Programming: Java  
+💗 Database: SQL, MySQL  
+💗 Web Development: HTML, CSS, JavaScript  
+💗 Tools: GitHub, NetBeans, Visual Studio Code  
 
 ---
 
 ## 📂 Projects
-
-### 📌 Bursary Management System
-- Developed a system to manage student bursaries efficiently
-- Features include user login, data storage, and application tracking
-- Technologies used: Java, MySQL
-
----
-
-## 📄 Curriculum Vitae (CV)
-[Download My CV](./YOUR-CV-FILE.pdf)
+### 🌟 Bursary Management System
+- Developed a system to manage student bursaries
+- Features: login system, application tracking
+- Technologies: Java, MySQL  
 
 ---
 
-## 🎥 Mock Interview Video
-[Watch My Mock Interview](PASTE-YOUR-VIDEO-LINK-HERE)
+## 📄 My CV
+[💖 Download My CV](./Sylvia_Mahlangu_CV.pdf)
 
 ---
 
-## 📞 Contact Information
-- Email: your-email@example.com
-- LinkedIn: https://linkedin.com/in/your-profile
+## 🎥 Mock Interview
+[🎬 Watch My Interview](PASTE-YOUR-LINK-HERE)
 
 ---
 
-## 🚀 Career Goals
-I aim to grow as a software developer and contribute to innovative projects that make a positive impact in people's lives.
+## 🌐 Contact Me
+💌 Email: your-email@example.com  
+💼 LinkedIn: https://linkedin.com/in/your-profile  
+
+---
+
+## 🌷 Career Goals
+To grow as a software developer and contribute to impactful, innovative tech solutions.
+
+---
+
+<p align="center">
+  💕 Thank you for visiting my portfolio 💕
+</p>
