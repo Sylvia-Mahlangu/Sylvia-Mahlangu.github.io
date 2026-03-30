@@ -43,7 +43,7 @@ Hi there! I'm Sylvia, a passionate 3rd-year ICT student who loves building syste
 ---
 
 ## 📄 My CV
-[💖 Download My CV]([./Sylvia_Mahlangu_CV.pdf](https://github.com/Sylvia-Mahlangu/Sylvia-Portfolio/blob/main/SM%20MAHLANGU%20RESUME.pdf))
+[💖 Download My CV](./SM MAHLANGU RESUME.pdf)
 
 ---
 
@@ -53,8 +53,8 @@ Hi there! I'm Sylvia, a passionate 3rd-year ICT student who loves building syste
 ---
 
 ## 🌐 Contact Me
-💌 Email: your-email@example.com  
-💼 LinkedIn: https://linkedin.com/in/your-profile  
+💌 Email: 222954396@mycput.ac.za
+💼 LinkedIn: www.linkedin.com/in/sylvia-mahlangu-4ab380257  
 
 ---
 
