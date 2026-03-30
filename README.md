@@ -25,6 +25,19 @@ Hi there! I'm Sylvia, a passionate 3rd-year ICT student who loves building syste
 - Responsibilities:
   - Promoted Products directly to customers, explained features and benefits, and drove sales by meeting daily and weekly targets. Maintained attractive displays, engaged customers professionally, and provided feeback to the sales team to improve performance.
 
+  ---
+ ## 🛠️ Currently Working On
+- Improving my Java and backend development skills
+- Building real-world systems
+
+  ---
+
+## 🤝 Soft Skills
+- Communication
+- Teamwork
+- Problem-solving
+- Time management
+
 ---
 
 ## 💻 Technical Skills
