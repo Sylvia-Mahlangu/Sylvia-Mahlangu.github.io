@@ -75,7 +75,7 @@ Hi there! I'm Sylvia, a passionate 3rd-year ICT student who loves building syste
 ---
 
 <h2>Mock Interviw Video</h2>
-<video width="600" controls>
+<video width="800" height="450" controls>
 <source src="video/Interview.mp4"
 type="video/mp4">
 </video>
