@@ -95,7 +95,7 @@ To grow as a software developer and contribute to impactful, innovative tech sol
 <h2>Mock Interviw Video</h2>
 <video width="600" controls>
 <source src="video/Interview.mp4"
-type="video/mp4">
+<type="video/mp4">
 </video>video>
 
 ---
